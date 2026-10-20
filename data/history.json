@@ -1,0 +1,21 @@
+{
+  "author": "rosswang",
+  "snapshots": [
+    {
+      "date": "2026-10-20",
+      "total": 5931,
+      "plugins": {
+        "md-to-html-effect": 2187,
+        "html-effectiveness": 1745,
+        "html-to-md-effect": 1061,
+        "nextcloud-sync-yanc": 444,
+        "joplin-server-sync": 350,
+        "vault-force-sync": 83,
+        "quadrant-chart": 39,
+        "embed-link-converter": 22,
+        "clear-unused-attachments": 0
+      }
+    }
+  ],
+  "updated": "2026-10-20T14:38:48+08:00"
+}
