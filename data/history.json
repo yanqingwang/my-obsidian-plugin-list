@@ -64,7 +64,23 @@
         "clear-unused-attachments": 24,
         "theme-view-studio": 4
       }
+    },
+    {
+      "date": "2026-10-24",
+      "total": 6936,
+      "plugins": {
+        "md-to-html-effect": 2390,
+        "html-effectiveness": 1829,
+        "html-to-md-effect": 1200,
+        "nextcloud-sync-yanc": 515,
+        "vault-agent": 445,
+        "joplin-server-sync": 362,
+        "vault-force-sync": 89,
+        "quadrant-chart": 44,
+        "embed-link-converter": 32,
+        "clear-unused-attachments": 30
+      }
     }
   ],
-  "updated": "2026-10-23T13:47:49+08:00"
+  "updated": "2026-10-24T13:27:31+08:00"
 }
