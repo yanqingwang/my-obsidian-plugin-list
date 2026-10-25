@@ -4,23 +4,24 @@
 
 ![总下载量趋势](chart.svg)
 
-**总下载量：6,936** · 10 个已发布插件 · 更新于 2026-10-24 13:27（Asia/Shanghai）
+**总下载量：7,064** · 11 个已发布插件 · 更新于 2026-10-25 13:46（Asia/Shanghai）
 
 ## 插件列表（仅已发布）
 
 | 插件 | 市场页面 | GitHub 仓库 | 下载量 | 一句话说明 |
 | --- | --- | --- | ---: | --- |
-| **MD to HTML Effectiveness**<br>`md-to-html-effect` | [市场](https://community.obsidian.md/plugins/md-to-html-effect) | [yanqingwang/obsidian-md-to-html-effect](https://github.com/yanqingwang/obsidian-md-to-html-effect) | 2,390 | 把 Markdown 渲染成可缩放、可导出的空间化 HTML（对比、时间线、SVG 图、报告、幻灯片）。 |
-| **HTML Effectiveness**<br>`html-effectiveness` | [市场](https://community.obsidian.md/plugins/html-effectiveness) | [yanqingwang/obsidian-html-effectiveness](https://github.com/yanqingwang/obsidian-html-effectiveness) | 1,829 | 在 Obsidian 中直接渲染对比、流程图、幻灯片、报告、时间线等空间化 HTML 内容。 |
-| **HTML to MD Effectiveness**<br>`html-to-md-effect` | [市场](https://community.obsidian.md/plugins/html-to-md-effect) | [yanqingwang/obsidian-html-to-md-effect](https://github.com/yanqingwang/obsidian-html-to-md-effect) | 1,200 | 把 HTML 文件转换成干净的 Markdown，保留标题、列表、代码块、表格、链接和图片。 |
-| **Nextcloud sync YANC**<br>`nextcloud-sync-yanc` | [市场](https://community.obsidian.md/plugins/nextcloud-sync-yanc) | [yanqingwang/obsidian-nextcloud-sync-yanc](https://github.com/yanqingwang/obsidian-nextcloud-sync-yanc) | 515 | 在 Obsidian vault 与 Nextcloud 之间双向同步，支持智能/强制模式、分块上传和隐藏文件排除。 |
-| **Vault Agent**<br>`vault-agent` | [市场](https://community.obsidian.md/plugins/vault-agent) | [yanqingwang/opensource-AI-vault-agent](https://github.com/yanqingwang/opensource-AI-vault-agent) | 445 | AI vault agent powered by China-accessible LLM APIs — DeepSeek, GLM, Kimi, Qwen or any OpenAI-compatible endpoint. Agentic read/search/create/edit of notes. No CLI, no proxy, 中文优先. |
+| **MD to HTML Effectiveness**<br>`md-to-html-effect` | [市场](https://community.obsidian.md/plugins/md-to-html-effect) | [yanqingwang/obsidian-md-to-html-effect](https://github.com/yanqingwang/obsidian-md-to-html-effect) | 2,427 | 把 Markdown 渲染成可缩放、可导出的空间化 HTML（对比、时间线、SVG 图、报告、幻灯片）。 |
+| **HTML Effectiveness**<br>`html-effectiveness` | [市场](https://community.obsidian.md/plugins/html-effectiveness) | [yanqingwang/obsidian-html-effectiveness](https://github.com/yanqingwang/obsidian-html-effectiveness) | 1,845 | 在 Obsidian 中直接渲染对比、流程图、幻灯片、报告、时间线等空间化 HTML 内容。 |
+| **HTML to MD Effectiveness**<br>`html-to-md-effect` | [市场](https://community.obsidian.md/plugins/html-to-md-effect) | [yanqingwang/obsidian-html-to-md-effect](https://github.com/yanqingwang/obsidian-html-to-md-effect) | 1,247 | 把 HTML 文件转换成干净的 Markdown，保留标题、列表、代码块、表格、链接和图片。 |
+| **Nextcloud sync YANC**<br>`nextcloud-sync-yanc` | [市场](https://community.obsidian.md/plugins/nextcloud-sync-yanc) | [yanqingwang/obsidian-nextcloud-sync-yanc](https://github.com/yanqingwang/obsidian-nextcloud-sync-yanc) | 518 | 在 Obsidian vault 与 Nextcloud 之间双向同步，支持智能/强制模式、分块上传和隐藏文件排除。 |
+| **Vault Agent**<br>`vault-agent` | [市场](https://community.obsidian.md/plugins/vault-agent) | [yanqingwang/opensource-AI-vault-agent](https://github.com/yanqingwang/opensource-AI-vault-agent) | 457 | AI vault agent powered by China-accessible LLM APIs — DeepSeek, GLM, Kimi, Qwen or any OpenAI-compatible endpoint. Agentic read/search/create/edit of notes. No CLI, no proxy, 中文优先. |
 | **Joplin Server Sync**<br>`joplin-server-sync` | [市场](https://community.obsidian.md/plugins/joplin-server-sync) | [yanqingwang/obsidian-joplin-server-sync](https://github.com/yanqingwang/obsidian-joplin-server-sync) | 362 | 在 Obsidian vault 与 Joplin Server 之间双向同步，支持附件、标签和链接。 |
-| **Vault Force Sync**<br>`vault-force-sync` | [市场](https://community.obsidian.md/plugins/vault-force-sync) | [yanqingwang/github-vault-force-sync](https://github.com/yanqingwang/github-vault-force-sync) | 89 | 把 vault 强制/增量同步到可配置的 GitHub 远程仓库，跳过超大文件并记录同步日志。 |
+| **Vault Force Sync**<br>`vault-force-sync` | [市场](https://community.obsidian.md/plugins/vault-force-sync) | [yanqingwang/github-vault-force-sync](https://github.com/yanqingwang/github-vault-force-sync) | 97 | 把 vault 强制/增量同步到可配置的 GitHub 远程仓库，跳过超大文件并记录同步日志。 |
 | **Quadrant Chart**<br>`quadrant-chart` | [市场](https://community.obsidian.md/plugins/quadrant-chart) | [yanqingwang/quadrant-chart](https://github.com/yanqingwang/quadrant-chart) | 44 | 用纯 YAML 的 .mdx 文件绘制带自由文本的 N×M 象限图。 |
-| **Embed Link Converter**<br>`embed-link-converter` | [市场](https://community.obsidian.md/plugins/embed-link-converter) | [yanqingwang/obsidian-embed-link-converter](https://github.com/yanqingwang/obsidian-embed-link-converter) | 32 | 在 Obsidian wiki-link 嵌入与 Markdown 图片语法之间双向转换，支持文件夹范围、预览和自动备份。 |
-| **Clear Unused Attachments**<br>`clear-unused-attachments` | [市场](https://community.obsidian.md/plugins/clear-unused-attachments) | [yanqingwang/Clean_unused_attachments_selectable](https://github.com/yanqingwang/Clean_unused_attachments_selectable) | 30 | 按文件夹和文件类型筛选并清理未使用的图片和附件。 |
-| **合计** | | | **6,936** | |
+| **Clear Unused Attachments**<br>`clear-unused-attachments` | [市场](https://community.obsidian.md/plugins/clear-unused-attachments) | [yanqingwang/Clean_unused_attachments_selectable](https://github.com/yanqingwang/Clean_unused_attachments_selectable) | 34 | 按文件夹和文件类型筛选并清理未使用的图片和附件。 |
+| **Embed Link Converter**<br>`embed-link-converter` | [市场](https://community.obsidian.md/plugins/embed-link-converter) | [yanqingwang/obsidian-embed-link-converter](https://github.com/yanqingwang/obsidian-embed-link-converter) | 33 | 在 Obsidian wiki-link 嵌入与 Markdown 图片语法之间双向转换，支持文件夹范围、预览和自动备份。 |
+| **Theme View Studio**<br>`theme-view-studio` | [市场](https://community.obsidian.md/plugins/theme-view-studio) | [yanqingwang/obsidian-theme-view-studio](https://github.com/yanqingwang/obsidian-theme-view-studio) | 0 | Folder-scoped appearance: reading width, typography, background image and opacity, transparency, and an e-ink mode. One default theme for the vault, different looks per folder. |
+| **合计** | | | **7,064** | |
 
 > 下载量来自 Obsidian 官方仓库的 `community-plugin-stats.json`；插件是否发布以 `community-plugins.json` 为准，未上架/已下架插件不会出现在表中。
 
