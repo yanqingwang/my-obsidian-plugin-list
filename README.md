@@ -4,7 +4,7 @@
 
 ![总下载量趋势](chart.svg)
 
-**总下载量：6,859** · 12 个已发布插件 · 更新于 2026-10-27 14:01（Asia/Shanghai）
+**总下载量：7,371** · 12 个已发布插件 · 更新于 2026-10-27 18:20（Asia/Shanghai）
 
 ## 插件列表（仅已发布）
 
@@ -14,6 +14,7 @@
 | **HTML Effectiveness**<br>`html-effectiveness` | [市场](https://community.obsidian.md/plugins/html-effectiveness) | [yanqingwang/obsidian-html-effectiveness](https://github.com/yanqingwang/obsidian-html-effectiveness) | 1,884 | 在 Obsidian 中直接渲染对比、流程图、幻灯片、报告、时间线等空间化 HTML 内容。 |
 | **HTML to MD Effectiveness**<br>`html-to-md-effect` | [市场](https://community.obsidian.md/plugins/html-to-md-effect) | [yanqingwang/obsidian-html-to-md-effect](https://github.com/yanqingwang/obsidian-html-to-md-effect) | 1,314 | 把 HTML 文件转换成干净的 Markdown，保留标题、列表、代码块、表格、链接和图片。 |
 | **Nextcloud sync YANC**<br>`nextcloud-sync-yanc` | [市场](https://community.obsidian.md/plugins/nextcloud-sync-yanc) | [yanqingwang/obsidian-nextcloud-sync-yanc](https://github.com/yanqingwang/obsidian-nextcloud-sync-yanc) | 534 | 在 Obsidian vault 与 Nextcloud 之间双向同步，支持智能/强制模式、分块上传和隐藏文件排除。 |
+| **AI Vault Agent CN**<br>`vault-agent` | [市场](https://community.obsidian.md/plugins/vault-agent) | [yanqingwang/opensource-AI-vault-agent](https://github.com/yanqingwang/opensource-AI-vault-agent) | 512 | AI vault agent powered by China-accessible LLM APIs — DeepSeek, GLM, Kimi, Qwen or any OpenAI-compatible endpoint. Agentic read/search/create/edit of notes. No CLI, no proxy, 中文优先. |
 | **Joplin Server Sync**<br>`joplin-server-sync` | [市场](https://community.obsidian.md/plugins/joplin-server-sync) | [yanqingwang/obsidian-joplin-server-sync](https://github.com/yanqingwang/obsidian-joplin-server-sync) | 365 | 在 Obsidian vault 与 Joplin Server 之间双向同步，支持附件、标签和链接。 |
 | **Vault Force Sync**<br>`vault-force-sync` | [市场](https://community.obsidian.md/plugins/vault-force-sync) | [yanqingwang/github-vault-force-sync](https://github.com/yanqingwang/github-vault-force-sync) | 102 | 把 vault 强制/增量同步到可配置的 GitHub 远程仓库，跳过超大文件并记录同步日志。 |
 | **Quadrant Chart**<br>`quadrant-chart` | [市场](https://community.obsidian.md/plugins/quadrant-chart) | [yanqingwang/quadrant-chart](https://github.com/yanqingwang/quadrant-chart) | 46 | 用纯 YAML 的 .mdx 文件绘制带自由文本的 N×M 象限图。 |
@@ -21,10 +22,11 @@
 | **Embed Link Converter**<br>`embed-link-converter` | [市场](https://community.obsidian.md/plugins/embed-link-converter) | [yanqingwang/obsidian-embed-link-converter](https://github.com/yanqingwang/obsidian-embed-link-converter) | 38 | 在 Obsidian wiki-link 嵌入与 Markdown 图片语法之间双向转换，支持文件夹范围、预览和自动备份。 |
 | **Theme View Studio**<br>`theme-view-studio` | [市场](https://community.obsidian.md/plugins/theme-view-studio) | [yanqingwang/obsidian-theme-view-studio](https://github.com/yanqingwang/obsidian-theme-view-studio) | 31 | Folder-scoped appearance: reading width, typography, background image and opacity, transparency, and an e-ink mode. One default theme for the vault, different looks per folder. |
 | **Config Sync with WebDAV**<br>`personal-config-sync` | [市场](https://community.obsidian.md/plugins/personal-config-sync) | [yanqingwang/personal-config-sync](https://github.com/yanqingwang/personal-config-sync) | 5 | 只同步 Obsidian 配置 (.obsidian/) 的 WebDAV 同步插件，独立于笔记内容同步。支持按插件/文件夹/文件/扩展名排除，默认全部配置同步，同步前自动做网络连通性测试。 |
-| **AI Vault Agent CN**<br>`vault-agent` | [市场](https://community.obsidian.md/plugins/vault-agent) | [yanqingwang/opensource-AI-vault-agent](https://github.com/yanqingwang/opensource-AI-vault-agent) | 0 | AI vault agent powered by China-accessible LLM APIs — DeepSeek, GLM, Kimi, Qwen or any OpenAI-compatible endpoint. Agentic read/search/create/edit of notes. No CLI, no proxy, 中文优先. |
-| **合计** | | | **6,859** | |
+| **合计** | | | **7,371** | |
 
-> 下载量来自 Obsidian 官方仓库的 `community-plugin-stats.json`；插件是否发布以 `community-plugins.json` 为准，未上架/已下架插件不会出现在表中。
+> 下载量优先取自 Obsidian 官方仓库的 `community-plugin-stats.json`；
+> 若某插件尚未被该统计文件收录（如刚上架），则回退到官方市场页面读取真实下载量。
+插件是否发布以 `community-plugins.json` 为准，未上架/已下架插件不会出现在表中。
 
 ## 数据文件
 

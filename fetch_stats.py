@@ -65,6 +65,43 @@ REVIEW_SUFFIX = re.compile(
     re.IGNORECASE,
 )
 
+# 市场页面“Downloads”区块里的数字：小数字精确展示（如 512），
+# 达到千级会缩写为 “1k”/“2.3k”/“1.2m”，需要用正则抓取并还原。
+MARKET_DOWNLOADS_RE = re.compile(
+    r'text-muted">Downloads</div><div class="">([^<]+)</div>'
+)
+
+
+def parse_market_downloads(raw: str) -> int:
+    """把市场页面的下载量字符串（可能带 k/m 缩写与千分位逗号）转成整数。"""
+    text = (raw or "").strip().replace(",", "")
+    match = re.match(r"^([\d.]+)\s*([kKmM]?)$", text)
+    if not match:
+        return 0
+    number = float(match.group(1))
+    suffix = match.group(2).lower()
+    if suffix == "k":
+        number *= 1_000
+    elif suffix == "m":
+        number *= 1_000_000
+    return int(round(number))
+
+
+def fetch_market_downloads(plugin_id: str) -> int:
+    """从官方市场页面抓取下载量，作为 community-plugin-stats.json 缺失时的兜底。"""
+    url = MARKET_URL.format(plugin_id=plugin_id)
+    try:
+        headers = {"User-Agent": USER_AGENT}
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req, timeout=45) as resp:
+            html = resp.read().decode("utf-8", errors="replace")
+        match = MARKET_DOWNLOADS_RE.search(html)
+        if match:
+            return parse_market_downloads(match.group(1))
+    except Exception as exc:  # noqa: BLE001
+        print(f"[warn] 市场页面抓取失败 {url}: {exc}", file=sys.stderr, flush=True)
+    return 0
+
 
 def norm_author(value: str) -> str:
     return re.sub(r"[\s_-]+", "", value or "").lower()
@@ -122,6 +159,13 @@ def collect_plugins(catalog: list[dict], stats: dict) -> list[dict]:
             continue
         entry = stats.get(plugin_id) or {}
         downloads = int(entry.get("downloads") or 0)
+        # community-plugin-stats.json 滞后：刚上架/新收录的插件（如 vault-agent）
+        # 可能还没写入统计文件，而官方市场页已显示真实下载量。这里用市场页
+        # 抓取作为兜底，避免把下载量错误地显示成 0。
+        if downloads == 0:
+            market_downloads = fetch_market_downloads(plugin_id)
+            if market_downloads > 0:
+                downloads = market_downloads
         repo = (item.get("repo") or "").strip()
         description = DESCRIPTIONS.get(plugin_id) or clean_description(
             item.get("description", "")
@@ -322,7 +366,8 @@ def render_readme(rows: list[dict], history: dict, snapshot: dict) -> str:
     lines += [
         f"| **合计** | | | **{total:,}** | |",
         "",
-        "> 下载量来自 Obsidian 官方仓库的 `community-plugin-stats.json`；"
+        "> 下载量优先取自 Obsidian 官方仓库的 `community-plugin-stats.json`；\n"
+        "> 若某插件尚未被该统计文件收录（如刚上架），则回退到官方市场页面读取真实下载量。\n"
         "插件是否发布以 `community-plugins.json` 为准，未上架/已下架插件不会出现在表中。",
         "",
         "## 数据文件",

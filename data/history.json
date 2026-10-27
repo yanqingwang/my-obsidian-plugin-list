@@ -17,122 +17,23 @@
       }
     },
     {
-      "date": "2026-10-21",
-      "total": 6384,
-      "plugins": {
-        "md-to-html-effect": 2209,
-        "html-effectiveness": 1769,
-        "html-to-md-effect": 1083,
-        "nextcloud-sync-yanc": 445,
-        "vault-agent": 375,
-        "joplin-server-sync": 351,
-        "vault-force-sync": 83,
-        "quadrant-chart": 40,
-        "embed-link-converter": 25,
-        "clear-unused-attachments": 4
-      }
-    },
-    {
-      "date": "2026-10-22",
-      "total": 6657,
-      "plugins": {
-        "md-to-html-effect": 2346,
-        "html-effectiveness": 1789,
-        "html-to-md-effect": 1118,
-        "nextcloud-sync-yanc": 497,
-        "vault-agent": 386,
-        "joplin-server-sync": 353,
-        "vault-force-sync": 84,
-        "quadrant-chart": 41,
-        "embed-link-converter": 27,
-        "clear-unused-attachments": 16,
-        "theme-view-studio": 0
-      }
-    },
-    {
-      "date": "2026-10-23",
-      "total": 6683,
-      "plugins": {
-        "md-to-html-effect": 2360,
-        "html-effectiveness": 1800,
-        "html-to-md-effect": 1153,
-        "nextcloud-sync-yanc": 505,
-        "vault-agent": 409,
-        "joplin-server-sync": 358,
-        "quadrant-chart": 42,
-        "embed-link-converter": 28,
-        "clear-unused-attachments": 24,
-        "theme-view-studio": 4
-      }
-    },
-    {
-      "date": "2026-10-24",
-      "total": 6936,
-      "plugins": {
-        "md-to-html-effect": 2390,
-        "html-effectiveness": 1829,
-        "html-to-md-effect": 1200,
-        "nextcloud-sync-yanc": 515,
-        "vault-agent": 445,
-        "joplin-server-sync": 362,
-        "vault-force-sync": 89,
-        "quadrant-chart": 44,
-        "embed-link-converter": 32,
-        "clear-unused-attachments": 30
-      }
-    },
-    {
-      "date": "2026-10-25",
-      "total": 7064,
-      "plugins": {
-        "md-to-html-effect": 2427,
-        "html-effectiveness": 1845,
-        "html-to-md-effect": 1247,
-        "nextcloud-sync-yanc": 518,
-        "vault-agent": 457,
-        "joplin-server-sync": 362,
-        "vault-force-sync": 97,
-        "quadrant-chart": 44,
-        "clear-unused-attachments": 34,
-        "embed-link-converter": 33,
-        "theme-view-studio": 0
-      }
-    },
-    {
-      "date": "2026-10-26",
-      "total": 7193,
-      "plugins": {
-        "md-to-html-effect": 2460,
-        "html-effectiveness": 1860,
-        "html-to-md-effect": 1274,
-        "nextcloud-sync-yanc": 529,
-        "vault-agent": 473,
-        "joplin-server-sync": 363,
-        "vault-force-sync": 99,
-        "quadrant-chart": 45,
-        "clear-unused-attachments": 34,
-        "embed-link-converter": 33,
-        "theme-view-studio": 23
-      }
-    },
-    {
       "date": "2026-10-27",
-      "total": 6859,
+      "total": 7371,
       "plugins": {
         "md-to-html-effect": 2496,
         "html-effectiveness": 1884,
         "html-to-md-effect": 1314,
         "nextcloud-sync-yanc": 534,
+        "vault-agent": 512,
         "joplin-server-sync": 365,
         "vault-force-sync": 102,
         "quadrant-chart": 46,
         "clear-unused-attachments": 44,
         "embed-link-converter": 38,
         "theme-view-studio": 31,
-        "personal-config-sync": 5,
-        "vault-agent": 0
+        "personal-config-sync": 5
       }
     }
   ],
-  "updated": "2026-10-27T14:01:36+08:00"
+  "updated": "2026-10-27T18:20:21+08:00"
 }
