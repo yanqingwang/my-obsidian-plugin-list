@@ -19,21 +19,22 @@
 <line x1="88" y1="78.0" x2="924" y2="78.0" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="4 4"/>
 <text x="76" y="82.0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">8,000</text>
 <line x1="88" y1="336" x2="924" y2="336" stroke="#9ca3af" stroke-width="1"/>
-<path d="M 88.0 336.0 L 88.0 144.7 L 227.3 130.1 L 366.7 121.3 L 506.0 120.5 L 645.3 112.3 L 784.7 108.2 L 924.0 104.0 L 924.0 336.0 Z" fill="url(#area)"/>
-<polyline points="88.0,144.7 227.3,130.1 366.7,121.3 506.0,120.5 645.3,112.3 784.7,108.2 924.0,104.0" fill="none" stroke="#7c3aed" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 88.0 336.0 L 88.0 144.7 L 207.4 130.1 L 326.9 121.3 L 446.3 120.5 L 565.7 112.3 L 685.1 108.2 L 804.6 104.0 L 924.0 114.8 L 924.0 336.0 Z" fill="url(#area)"/>
+<polyline points="88.0,144.7 207.4,130.1 326.9,121.3 446.3,120.5 565.7,112.3 685.1,108.2 804.6,104.0 924.0,114.8" fill="none" stroke="#7c3aed" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="88.0" cy="144.7" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="227.3" cy="130.1" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="366.7" cy="121.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="506.0" cy="120.5" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="645.3" cy="112.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="784.7" cy="108.2" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="924.0" cy="104.0" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<text x="924.0" y="90.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#5b21b6">7,193</text>
+<circle cx="207.4" cy="130.1" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="326.9" cy="121.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="446.3" cy="120.5" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="565.7" cy="112.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="685.1" cy="108.2" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="804.6" cy="104.0" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="924.0" cy="114.8" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<text x="924.0" y="100.8" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#5b21b6">6,859</text>
 <text x="88.0" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">10-20</text>
-<text x="227.3" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">10-21</text>
-<text x="366.7" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">10-22</text>
-<text x="645.3" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">10-24</text>
-<text x="784.7" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">10-25</text>
-<text x="924.0" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">10-26</text>
-<text x="88" y="382" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9ca3af">截至 2026-10-26 · 共 11 个已发布插件</text>
+<text x="207.4" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">10-21</text>
+<text x="446.3" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">10-23</text>
+<text x="565.7" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">10-24</text>
+<text x="804.6" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">10-26</text>
+<text x="924.0" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">10-27</text>
+<text x="88" y="382" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9ca3af">截至 2026-10-27 · 共 12 个已发布插件</text>
 </svg>
