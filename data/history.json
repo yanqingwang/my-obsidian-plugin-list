@@ -158,7 +158,25 @@
         "embed-link-converter": 48,
         "personal-config-sync": 18
       }
+    },
+    {
+      "date": "2026-11-04",
+      "total": 8233,
+      "plugins": {
+        "md-to-html-effect": 2571,
+        "html-effectiveness": 2045,
+        "html-to-md-effect": 1447,
+        "vault-agent": 752,
+        "nextcloud-sync-yanc": 642,
+        "joplin-server-sync": 415,
+        "vault-force-sync": 108,
+        "clear-unused-attachments": 69,
+        "quadrant-chart": 57,
+        "theme-view-studio": 56,
+        "embed-link-converter": 51,
+        "personal-config-sync": 20
+      }
     }
   ],
-  "updated": "2026-11-03T15:38:44+08:00"
+  "updated": "2026-11-04T15:17:53+08:00"
 }
