@@ -21,46 +21,47 @@
 <line x1="88" y1="78.0" x2="924" y2="78.0" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="4 4"/>
 <text x="76" y="82.0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">10,000</text>
 <line x1="88" y1="336" x2="924" y2="336" stroke="#9ca3af" stroke-width="1"/>
-<path d="M 88.0 336.0 L 88.0 183.0 L 115.0 145.8 L 141.9 142.6 L 168.9 148.5 L 195.9 136.3 L 222.8 133.1 L 249.8 130.9 L 276.8 128.3 L 303.7 125.9 L 330.7 123.6 L 357.7 121.2 L 384.6 119.7 L 411.6 118.5 L 438.6 116.8 L 465.5 114.8 L 492.5 113.3 L 519.5 111.9 L 546.5 110.0 L 573.4 108.3 L 600.4 106.7 L 627.4 105.1 L 654.3 104.0 L 681.3 102.3 L 708.3 100.8 L 735.2 99.3 L 762.2 98.1 L 789.2 96.7 L 816.1 95.6 L 843.1 94.3 L 870.1 93.2 L 897.0 92.3 L 924.0 91.0 L 924.0 336.0 Z" fill="url(#area)"/>
-<polyline points="88.0,183.0 115.0,145.8 141.9,142.6 168.9,148.5 195.9,136.3 222.8,133.1 249.8,130.9 276.8,128.3 303.7,125.9 330.7,123.6 357.7,121.2 384.6,119.7 411.6,118.5 438.6,116.8 465.5,114.8 492.5,113.3 519.5,111.9 546.5,110.0 573.4,108.3 600.4,106.7 627.4,105.1 654.3,104.0 681.3,102.3 708.3,100.8 735.2,99.3 762.2,98.1 789.2,96.7 816.1,95.6 843.1,94.3 870.1,93.2 897.0,92.3 924.0,91.0" fill="none" stroke="#7c3aed" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 88.0 336.0 L 88.0 183.0 L 114.1 145.8 L 140.2 142.6 L 166.4 148.5 L 192.5 136.3 L 218.6 133.1 L 244.8 130.9 L 270.9 128.3 L 297.0 125.9 L 323.1 123.6 L 349.2 121.2 L 375.4 119.7 L 401.5 118.5 L 427.6 116.8 L 453.8 114.8 L 479.9 113.3 L 506.0 111.9 L 532.1 110.0 L 558.2 108.3 L 584.4 106.7 L 610.5 105.1 L 636.6 104.0 L 662.8 102.3 L 688.9 100.8 L 715.0 99.3 L 741.1 98.1 L 767.2 96.7 L 793.4 95.6 L 819.5 94.3 L 845.6 93.2 L 871.8 92.3 L 897.9 91.0 L 924.0 89.2 L 924.0 336.0 Z" fill="url(#area)"/>
+<polyline points="88.0,183.0 114.1,145.8 140.2,142.6 166.4,148.5 192.5,136.3 218.6,133.1 244.8,130.9 270.9,128.3 297.0,125.9 323.1,123.6 349.2,121.2 375.4,119.7 401.5,118.5 427.6,116.8 453.8,114.8 479.9,113.3 506.0,111.9 532.1,110.0 558.2,108.3 584.4,106.7 610.5,105.1 636.6,104.0 662.8,102.3 688.9,100.8 715.0,99.3 741.1,98.1 767.2,96.7 793.4,95.6 819.5,94.3 845.6,93.2 871.8,92.3 897.9,91.0 924.0,89.2" fill="none" stroke="#7c3aed" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="88.0" cy="183.0" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="115.0" cy="145.8" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="141.9" cy="142.6" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="168.9" cy="148.5" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="195.9" cy="136.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="222.8" cy="133.1" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="249.8" cy="130.9" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="276.8" cy="128.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="303.7" cy="125.9" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="330.7" cy="123.6" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="357.7" cy="121.2" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="384.6" cy="119.7" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="411.6" cy="118.5" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="438.6" cy="116.8" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="465.5" cy="114.8" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="492.5" cy="113.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="519.5" cy="111.9" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="546.5" cy="110.0" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="573.4" cy="108.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="600.4" cy="106.7" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="627.4" cy="105.1" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="654.3" cy="104.0" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="681.3" cy="102.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="708.3" cy="100.8" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="735.2" cy="99.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="762.2" cy="98.1" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="789.2" cy="96.7" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="816.1" cy="95.6" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="843.1" cy="94.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="870.1" cy="93.2" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="897.0" cy="92.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<circle cx="924.0" cy="91.0" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
-<text x="924.0" y="77.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#5b21b6">9,497</text>
+<circle cx="114.1" cy="145.8" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="140.2" cy="142.6" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="166.4" cy="148.5" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="192.5" cy="136.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="218.6" cy="133.1" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="244.8" cy="130.9" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="270.9" cy="128.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="297.0" cy="125.9" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="323.1" cy="123.6" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="349.2" cy="121.2" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="375.4" cy="119.7" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="401.5" cy="118.5" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="427.6" cy="116.8" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="453.8" cy="114.8" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="479.9" cy="113.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="506.0" cy="111.9" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="532.1" cy="110.0" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="558.2" cy="108.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="584.4" cy="106.7" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="610.5" cy="105.1" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="636.6" cy="104.0" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="662.8" cy="102.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="688.9" cy="100.8" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="715.0" cy="99.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="741.1" cy="98.1" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="767.2" cy="96.7" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="793.4" cy="95.6" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="819.5" cy="94.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="845.6" cy="93.2" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="871.8" cy="92.3" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="897.9" cy="91.0" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<circle cx="924.0" cy="89.2" r="4.5" fill="#7c3aed" stroke="#ffffff" stroke-width="2"/>
+<text x="924.0" y="75.2" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#5b21b6">9,566</text>
 <text x="88.0" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">10-20</text>
-<text x="249.8" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">11-01</text>
-<text x="411.6" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">11-07</text>
-<text x="600.4" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">11-14</text>
-<text x="762.2" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">11-20</text>
-<text x="924.0" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">11-26</text>
-<text x="88" y="382" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9ca3af">截至 2026-11-26 · 共 12 个已发布插件</text>
+<text x="244.8" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">11-01</text>
+<text x="427.6" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">11-08</text>
+<text x="584.4" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">11-14</text>
+<text x="767.2" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">11-21</text>
+<text x="924.0" y="362" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">11-27</text>
+<text x="88" y="382" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9ca3af">截至 2026-11-27 · 共 12 个已发布插件</text>
 </svg>
